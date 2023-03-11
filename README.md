@@ -1,1 +1,2 @@
-# EDA-Projects-
+# EDA-Projects
+EDA on Spotify dataset 
